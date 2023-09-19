@@ -28,15 +28,32 @@ const Projects = () => {
                         idx = {8}
                     />
                 </h1>
+                <h2>
+                    Introduction to Robotics
+                </h2>
+                <h3>Laboratory Work</h3>
                 <p>
+                    Introduction to Robotics laboratory homework, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. Each homework includes requirements, implementation details, code, image and video files.
+                </p>
+                <a className="github-link" target="_blank" rel="noreferrer" href="https://github.com/IoanaLivia/IntroductionToRobotics">Github Repo</a>
+                <br></br>
+                <br></br>
+                <h3>Arduino Led Matrix</h3>
+                 <p>
+                    Snake : Snacks & Bombs is a variation of the classic snake game with the addition of bombs and various difficulty levels. 
+                </p>
+                <a className="github-link" target="_blank" rel="noreferrer" href="https://github.com/IoanaLivia/Robotics-Matrix-Project-Snake-Snack">Github Repo</a>
+                <br></br>
+                <br></br>
+                <h2>
                     Clinic Management System
-                </p>
+                </h2>
                 <p>
-                    Introduction to Robotics Coursework
+                    Project developed for the Advanced Object Oriented Programming in Java Course in the second year at the University of Bucharest.
                 </p>
-                <p>
-                    Arduino Led Matrix
-                </p>
+                <a className="github-link" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/ioanaliviapopescu">Github Repo</a>
+                <br></br>
+                <br></br>
             </div>
         </div>
     )
