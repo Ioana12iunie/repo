@@ -52,7 +52,7 @@ const Sidebar = () => (
             <li>
                 <a target="_blank" 
                 rel="noreferrer"
-                href="https://github.com/IoanaLivia">
+                href="https://github.com/Ioana12iunie">
                     <FontAwesomeIcon icon={faGithub} color="#4d4d4e"></FontAwesomeIcon>
                 </a>
             </li>
