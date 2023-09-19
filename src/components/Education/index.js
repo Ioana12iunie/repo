@@ -19,7 +19,7 @@ const Education = () => {
 
 
     return (
-        <div className='container about-page'>
+        <div className='container education-page'>
             <div className='text-zone'>
                 <h1>
                     <AnimatedLetters
@@ -28,15 +28,38 @@ const Education = () => {
                         idx = {9}
                     />
                 </h1>
+                <h2>
+                    Master of Artificial Intelligence 
+                </h2>
+                <h3>
+                    University of Bucharest, Oct 2023 - July 2025
+                </h3>
                 <p>
-                    Master of Artificial Intelligence
+                    Relevant Coursework: Advanced Machine Learning, Natural language processing, Computer Vision, Practical Machine Learning, Deep Learning
                 </p>
-                <p>
-                    Bachelor of Science in Computer Science
-                </p>
-                <p>
-                    National College "Gheorghe Sincai"
-                </p>
+                <br />
+                <div>
+                    <h2>
+                        Bachelor of Computer Science 
+                    </h2>
+                    <h3>
+                        University of Bucharest, Oct 2020 - July 2023
+                    </h3>
+                    <p>
+                        My Bachelor Thesis consisted in an Android mobile app developed with Kotlin which aims to provide a practical
+                        approach to the development of emotional intelligence through its emotion recognition functionality.
+                    </p>
+                    <p>
+                        The implementation of the NLP task is based on multiple approaches, ranging from simpler models such as
+                        ComplementNB (maximum accuracy of 82%) to state of the art transformer-based models such as the ones from the
+                        BERT family (maximum accuracy of 94%).
+                    </p>
+                    <p>Thesis Grade: 9.5 / 10</p>
+                    <p>
+                        Relevant Coursework:  Algorithms and Data Structures, Object Oriented Programming, Introduction to Robotics, Web
+development, Artificial Intelligence
+                    </p>
+                </div>
             </div>
         </div>
     )

@@ -29,19 +29,21 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                    I'm an ambitious Artificial Intelligence Master's Student looking
-                    for a role that will enable me to continue to grow while working 
+                    I'm an ambitious Artificial Intelligence Master's Student currently looking
+                    for a Summer 2024 Software Engineering Internship that will enable me to continue to grow while working 
                     with the latest technologies on challenging and diverse projects.
                 </p>
+                <h2>Hobbies & Volunteering</h2>
                 <p>
-                    I'm an ambitious Artificial Intelligence Master's Student looking
-                    for a role that will enable me to continue to grow while working 
-                    with the latest technologies on challenging and diverse projects.
+                    I enthuasiatically join volunteering opportunities which enable me to design creative materials and help bring projects to life.
                 </p>
                 <p>
-                    I'm an ambitious Artificial Intelligence Master's Student looking
-                    for a role that will enable me to continue to grow while working 
-                    with the latest technologies on challenging and diverse projects.
+                    I volunteered at the Adolescent Grigore Moisil National Computer Science Competition in September 2023. My responsabilities consisted
+                    in designing the diplomas and helping with the organizatoric aspects.
+                </p>
+                <p>
+                    I have been a Design & PR Volunteer during my Bachelor's degree at the
+                    Association of Students at Mathematics and Informatics, University of Bucharest.
                 </p>
             </div>
 
