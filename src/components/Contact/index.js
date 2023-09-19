@@ -3,6 +3,7 @@ import './index.scss';
 import { useEffect, useState } from 'react';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faAngular, faCss3, faGitAlt, faGithub, faHtml5, faJava, faPython, faReact} from '@fortawesome/free-brands-svg-icons'
+import { Link } from 'react-router-dom';
 
 const Contact = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
@@ -29,8 +30,10 @@ const Contact = () => {
                     />
                 </h1>
                 <p>
-                    I am interested in ...
+                    I am interested in Software Engineering opportunities for Summer 2024.
                 </p>
+                <div className='txt'>EMAIL ME AT</div>
+                <div className='txt'>ioanaliviapopescu@gmail.com</div>
             </div>
         </div>
     )
