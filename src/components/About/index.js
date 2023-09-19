@@ -35,15 +35,13 @@ const About = () => {
                 </p>
                 <h2>Hobbies & Volunteering</h2>
                 <p>
-                    I enthuasiatically join volunteering opportunities which enable me to design creative materials and help bring projects to life.
+                    I enthusiastically engage in volunteer opportunities that allow me to channel my creativity and contribute to various projects.
                 </p>
                 <p>
-                    I volunteered at the Adolescent Grigore Moisil National Computer Science Competition in September 2023. My responsabilities consisted
-                    in designing the diplomas and helping with the organizatoric aspects.
+                   In September 2023, I volunteered at the Grigore Moisil National Computer Science Competition for Adolescents. My responsibilities included designing diplomas and providing support in organizational aspects.
                 </p>
                 <p>
-                    I have been a Design & PR Volunteer during my Bachelor's degree at the
-                    Association of Students at Mathematics and Informatics, University of Bucharest.
+                    During my Bachelor's degree at the University of Bucharest, I served as a Design & PR Volunteer for the Association of Students at Mathematics and Informatics.
                 </p>
             </div>
 
