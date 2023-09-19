@@ -1,7 +1,5 @@
 # Portfolio Website
 
-This project consists in a portfolio website built with React.
-
 ## Available Scripts
 
 In the project directory, you can run:
