@@ -7,7 +7,7 @@ import './index.scss'
       <img
         className="solid-logo"
         src={LogoS}
-        alt="JavaScript,  Developer"
+        alt="Student"
       />
     </div>
   )

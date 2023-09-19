@@ -4,7 +4,7 @@ import './index.scss';
 import AnimatedLetters from '../AnimatedLetters';
 import React, { useState, useEffect } from 'react';
 import Logo from './Logo'
-import LogoS from '../../assets/images/logo-s.png'
+import LogoS from '../../assets/images/poza.jfif'
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
     const nameArray = [' ', 'I','o', 'a', 'n', 'a', ' ','L', 'i', 'v', 'i', 'a']
@@ -37,9 +37,9 @@ const Home = () => {
             <h2>Artificial Intelligence Master's Student | Software Engineering Enthusiast</h2>
             <Link to="/contact" className='flat-button'>CONTACT ME</Link>
         </div>
-        <div>
+        <div className="profile-picture">
             <img
-                className="solid-logo"
+                className='profile-logo'
                 src={LogoS}
                 alt="Student"
             />
